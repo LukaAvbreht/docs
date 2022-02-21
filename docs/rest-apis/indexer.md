@@ -563,6 +563,7 @@ Lookup block.
 |HTTP Code|Description|Schema|
 |---|---|---|
 |**200**|(empty)|[Block](#block)|
+|**404**| No block at that round number| No Content |
 
 
 **Consumes**
